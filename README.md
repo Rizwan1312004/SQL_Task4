@@ -34,11 +34,11 @@ This project provides an analysis of a small sales dataset. The dataset includes
 
 ## Combined Summary
 
-| Metric        | Value     |
-| ------------- | --------- |
-| Total Sales   | 4 records |
-| Units Sold    | 21 units  |
-| Average Price | \$317.50  |
+  Metric        | Value     
+  ------------- | --------- 
+  Total Sales   | 4 records 
+  Units Sold    | 21 units  
+  Average Price | \$317.50  
 
 ---
 
@@ -48,6 +48,3 @@ This project provides an analysis of a small sales dataset. The dataset includes
 * **Electronics** has a significantly higher average price.
 * The dataset offers a clear comparison of sales performance across categories.
 
----
-
-Let me know if you need this in markdown, PDF, or a presentation-ready format!
